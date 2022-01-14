@@ -86,3 +86,10 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+li {
+  list-style: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
