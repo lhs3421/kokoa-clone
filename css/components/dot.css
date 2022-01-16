@@ -1,4 +1,16 @@
-.dot {
+.dot-parents {
+  position: relative;
+}
+.dot-more {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  left: 125px;
+  bottom: 20px;
+}
+.dot-find {
   background-color: tomato;
   width: 6px;
   height: 6px;

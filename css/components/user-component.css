@@ -20,6 +20,7 @@
   margin-top: 8px;
   font-size: 17px;
   color: var(--gray-color);
+  margin-right: 5px;
 }
 .user-component__avatar--xl {
   width: 80px;
@@ -42,4 +43,11 @@
 .user-component__time {
   margin-bottom: 10px;
   display: block;
+}
+.user-component__subicon {
+  display: flex;
+  align-items: flex-end;
+}
+.user-component__subicon i {
+  color: red;
 }
