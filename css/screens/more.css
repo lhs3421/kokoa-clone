@@ -3,9 +3,12 @@
 }
 .icon-row-more {
   display: flex;
-  margin-top: 50px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 35px;
 }
 .icon-row-more__icon {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -16,9 +19,15 @@
 .icon-row-more__icon span {
   margin-top: 18px;
 }
-
-.icon-row-more__icon:first-child {
-  margin-right: 150px;
+.icon-row-openchat__relative {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon-row-more__icon .icon-row-openchat__relative {
+  position: absolute;
+  right: -3px;
+  bottom: -38px;
 }
 .more-suggestions {
   margin-top: 50px;
