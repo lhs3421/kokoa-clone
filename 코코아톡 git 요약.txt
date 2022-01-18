@@ -1,2 +1,7 @@
 7.0 Branches on Git 
 - main브랜치말고 브랜치를 하나 더 만들고 vs코드에서 수정하고 커밋하면 자동으로 바뀜 
+
+7.1강 Publishing on Github Pages
+- 사이트를 만들기 위해서는 새로운 브랜치를 하나 더만들어야함 gh-pages로 !!
+- lhs3421.github.io/kokoa-clone
+- 유저이름.github.io/repositories이름
