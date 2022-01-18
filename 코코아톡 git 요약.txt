@@ -5,3 +5,8 @@
 - 사이트를 만들기 위해서는 새로운 브랜치를 하나 더만들어야함 gh-pages로 !!
 - lhs3421.github.io/kokoa-clone
 - 유저이름.github.io/repositories이름
+
+7.2강 Updationg Github Pages
+- 코드 수정해서 업데이트 하고 싶을때
+1. master 브랜치에서 vscode에서 수정하고 저장후 master 브렌치에서 커밋후 푸쉬해줌
+2. gh-pages 브랜치에서 update from main을 해주고 푸쉬를 해준다
